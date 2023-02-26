@@ -41,6 +41,7 @@ PS: Another important configuration need to be present:
 > 1. From the repositories, you need the EPEL repository (EPEL is the Extra Packages for Enterprise Linux)
 > 2. Python pip package installer
 
+
 ## Lesson 1.3 - Installing Ansible on the Control Node
 - Ansible can be installed from the repositories, or using Python pip installer
 - In this procedure we'll discuss Python pip as well as the repositories method
