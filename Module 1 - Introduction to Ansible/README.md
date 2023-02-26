@@ -12,6 +12,6 @@ By the end of this module, you will have a solid understanding of Ansible's capa
 In this module, you will learn about:
 - [✔️] <a href="https://github.com/GhnimiWael/RHCE/blob/main/Module%201%20-%20Introduction%20to%20Ansible/Lesson%201%20-%20Installing%20Ansible.md"> Installing Ansible </a>
 - [✔️] <a href="https://github.com/GhnimiWael/RHCE/blob/main/Module%201%20-%20Introduction%20to%20Ansible/Lesson%202%20-%20Setting%20up%20a%20Managed%20Environment.md"> Setting up a Managed Environment</a>
-- Using Ad Hoc Commands
+- [✔️] <a href="https://github.com/GhnimiWael/RHCE/blob/main/Module%201%20-%20Introduction%20to%20Ansible/Lesson%203%20-%20Using%20Ad%20Hoc%20Commands.md">Using Ad Hoc Commands</a>
 - Getting started with Playbooks
 - Working with variables and Facts
