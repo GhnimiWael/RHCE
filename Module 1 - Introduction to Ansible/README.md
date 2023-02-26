@@ -10,12 +10,8 @@ You will also delve into the world of Ansible playbooks, a declarative language 
 By the end of this module, you will have a solid understanding of Ansible's capabilities and how to leverage them to streamline your IT operations. Whether you are a system administrator, DevOps engineer, or IT professional, this module will provide you with the foundational knowledge needed to succeed in your role.
 
 In this module, you will learn about:
-- [✔️] Installing Ansible 
+- [✔️] <a href="https://github.com/GhnimiWael/RHCE/blob/main/Module%201%20-%20Introduction%20to%20Ansible/Lesson%201%20-%20Installing%20Ansible.md"> Installing Ansible </a>
 - Setting up a Managed Environment
 - Using Ad Hoc Commands
 - Getting started with Playbooks
 - Working with variables and Facts
-
-
-# Lessons
-1. <a href="https://github.com/GhnimiWael/RHCE/blob/main/Module%201%20-%20Introduction%20to%20Ansible/Lesson%201%20-%20Installing%20Ansible.md"> Lesson 1 - Installing Ansible </a>
