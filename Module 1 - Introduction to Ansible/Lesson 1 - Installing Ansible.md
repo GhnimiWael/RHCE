@@ -11,6 +11,7 @@ In this lesson, you will lean about:
 <p align="center" width="100%">
     <img width="100%"src="https://www.tutorialspoint.com/ansible/images/ansible_works.jpg"> 
 </p>
+
 - Ansible is a *CMS* (Configuration Management System)
 - The idea of Ansible is we are going to work with one central computer, this computer is called *Ansible Control Node*, on this computer, you need to install *Ansible Software*
 - To connect the *Ansible Control Node* with other host (managed computers, the only thing here you need is to use *SSH*  (Secure SHELL)
