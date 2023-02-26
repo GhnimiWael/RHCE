@@ -1,5 +1,4 @@
 # Lesson 2 - Setting up a Managed Environment
-
 In this lesson, you will lean about:
 - [✔️] Setting up Static Inventory
 - [✔️]  Understanding Dynamic Inventory
