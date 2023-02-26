@@ -5,7 +5,7 @@ In this lesson, you will lean about:
 - [✔️] Installing Ansible on the Control Node
 - [✔️] Preparing Managed Nodes 
 - [✔️] Verifying Ansible Installation 
-- [ ] Lesson 1 Lab : Installing Ansible
+- [✔️] Lesson 1 Lab : Installing Ansible
 
 ## Lesson 1.1 - Understanding Ansible
 <p align="center" width="100%">
