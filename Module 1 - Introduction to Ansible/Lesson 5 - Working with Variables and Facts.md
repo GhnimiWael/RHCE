@@ -9,6 +9,7 @@ In this lesson, you will lean about:
 - [✔️]   Creating Custom Facts
 - [✔️]  Lesson 5 Lab: Working With Variables and Facts
 
+
 <p align="center" width="100%">
     <img width="100%"src="https://cdn.educba.com/academy/wp-content/uploads/2020/06/Ansible-Facts.jpg"> 
 </p>
