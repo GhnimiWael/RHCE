@@ -12,4 +12,4 @@ The RHCE certification is offered by Red Hat, a leading provider of open source 
 The RHCE certification is widely recognized in the IT industry and is considered a valuable credential for IT professionals working with RHEL systems. It is also a prerequisite for some advanced Red Hat certifications, such as the Red Hat Certified Architect (RHCA) certification.
 
 In this course, you will learn about:
-- [ ] <a href="https://github.com/GhnimiWael/RHCE/tree/main/Module%201%20-%20Introduction%20to%20Ansible">Module 1 - Introduction to Ansible</a>
+- [✔️]  <a href="https://github.com/GhnimiWael/RHCE/tree/main/Module%201%20-%20Introduction%20to%20Ansible">Module 1 - Introduction to Ansible</a>
